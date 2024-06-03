@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Rafli-Alghafar
+- 👀 I’m interested in Front-End Developer, please support me if you kind, give me stars in my repo, thanksss👌👌👌🙏🙏🙌🙌🙌
+- 🌱 I’m currently learning JavaScript and Figma Design
+- 📫 My social media, @raflialghfr_
+- ⚡ Fun fact: i like formula 1, and i'm Carlos and vettel fans
+
+<!---
+Rafli-Alghafar/Rafli-Alghafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
