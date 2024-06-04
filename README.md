@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Developer, please support me if you kind, give me stars in my repo, thanksss👌👌👌🙏🙏🙌🙌🙌
 - 🌱 I’m currently learning JavaScript and Figma Design
 - 📫 My social media, alghafarrafli@gmail.com
-- ⚡ Fun fact: i like formula 1, and i'm Carlos and vettel fans
+- ⚡ Fun fact: i like formula 1, and i'm Sainz and vettel fans
 
 <!---
 Rafli-Alghafar/Rafli-Alghafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
