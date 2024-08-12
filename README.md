@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafli-Alghafar
-- 👀 I’m interested in Front-End Developer and UI&UX Designer, please support me if you kind, give me stars in my repo, thanksss👌🙏
+- 👀 I’m interested in Front-End Developer and UI&UX Designer, please support me if you kind, give me stars in my repo, thanksss a lot👌🙏
 - 🌱 I’m currently learning JavaScript and Figma Design
 - 📫 Contact me on, alghafarrafli@gmail.com
 - ⚡ Fun fact: i like formula 1, and i'm Sainz and vettel fans
